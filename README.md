@@ -1,2 +1,2 @@
-# grunt vs gulp workshoppresentation
+# grunt vs gulp workshop presentation
 =======================
