@@ -1,0 +1,5 @@
+span.zuehlke-header:before {
+    content: "Grunt vs Gulp - ";
+    font-weight: normal;
+    color: #dddddd;
+}
