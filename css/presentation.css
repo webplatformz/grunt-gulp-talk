@@ -3,3 +3,19 @@ span.zuehlke-header:before {
     font-weight: normal;
     color: #dddddd;
 }
+
+div.grunt-gulp {
+
+    background-image: url("../images/gulp_vs_grunt1.png");
+
+    background-repeat: no-repeat;
+
+    background-size: 280px 186px;
+
+    display: inline-block;
+
+    height: 186px;
+
+    width: 280px;
+
+}
